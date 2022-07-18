@@ -14,7 +14,7 @@ console.log(date2);
 
 
 // Crear una clase
-class MyDate {
+export class MyDate {
   year: number;
   month: number;
   day: number;
